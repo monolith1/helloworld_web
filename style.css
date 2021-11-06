@@ -1,0 +1,44 @@
+body {
+	background-color: #F2CAA7;
+	height: 100%;
+}
+
+.heading {
+	width: 100%;
+	height: 20%;
+	margin: 10px;
+	margin-bottom: 30px;
+	/* background-color: #011126;
+			DARK: #011126;
+			LIGHT: #F2EEB3
+			MED: #D9B391;
+			LT MD: #F2CAA7;
+			DRK MD: #595959; */
+	color: #D9B391;
+	overflow: visible;
+	position: fixed;
+	font-family: Calistoga;
+	font-size: 100px;
+}
+
+
+/* Color Theme Swatches in Hex */
+.Solar-field-printer-1-hex { color: #011126; }
+.Solar-field-printer-2-hex { color: #F2EEB3; }
+.Solar-field-printer-3-hex { color: #D9B391; }
+.Solar-field-printer-4-hex { color: #F2CAA7; }
+.Solar-field-printer-5-hex { color: #595959; }
+
+/* Color Theme Swatches in RGBA */
+.Solar-field-printer-1-rgba { color: rgba(0, 17, 38, 1); }
+.Solar-field-printer-2-rgba { color: rgba(242, 238, 179, 1); }
+.Solar-field-printer-3-rgba { color: rgba(216, 178, 145, 1); }
+.Solar-field-printer-4-rgba { color: rgba(242, 202, 167, 1); }
+.Solar-field-printer-5-rgba { color: rgba(89, 89, 89, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Solar-field-printer-1-hsla { color: hsla(213, 96, 7, 1); }
+.Solar-field-printer-2-hsla { color: hsla(56, 71, 82, 1); }
+.Solar-field-printer-3-hsla { color: hsla(28, 48, 70, 1); }
+.Solar-field-printer-4-hsla { color: hsla(28, 74, 80, 1); }
+.Solar-field-printer-5-hsla { color: hsla(0, 0, 35, 1); }
